@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ button{
+    background-color: rgb(192, 255, 224);
+    padding: 10px;
+    color:whitesmoke;
+    margin: 5px;
+    color:black
+ }
+ input {
+    border:1px solid grey
+ }
